@@ -1,0 +1,14 @@
+INPUT(
+./debug\LayoutSquare.o
+./debug\main.o
+./debug\MainWindow.o
+./debug\WidgetPFD.o
+./debug\qfi_PFD.o
+./debug\SerialPort.o
+./debug\qfi_example_plugin_import.o
+./debug\qrc_qfi.o
+./debug\moc_LayoutSquare.o
+./debug\moc_MainWindow.o
+./debug\moc_WidgetPFD.o
+./debug\moc_qfi_PFD.o
+);
